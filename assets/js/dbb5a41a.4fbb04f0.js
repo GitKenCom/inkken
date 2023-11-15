@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinkken=self.webpackChunkinkken||[]).push([[579],{9565:e=>{e.exports=JSON.parse('{"permalink":"/tags/\u4eba\u6587","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Docusaurus blog!"}')}}]);
