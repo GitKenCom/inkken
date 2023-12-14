@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkinkken=self.webpackChunkinkken||[]).push([[314],{4392:e=>{e.exports=JSON.parse('{"label":"\u4eba\u6587","permalink":"/tags/\u4eba\u6587","allTagsPath":"/tags","count":7}')}}]);
