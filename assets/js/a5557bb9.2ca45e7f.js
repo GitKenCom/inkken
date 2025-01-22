@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkinkken=self.webpackChunkinkken||[]).push([[5991],{3885:e=>{e.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":59,"totalPages":1,"totalCount":59,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Docusaurus blog!"}')}}]);
